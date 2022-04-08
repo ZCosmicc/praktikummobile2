@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ミドルテスト-スポーツ</string>
+    <string name="sports1">Karasuno High</string>
+    <string name="desc1">Karasuno High (Japanese: 烏野からすの高校こうこう Karasuno Kōkō) is a high school located in Miyagi Prefecture.</string>
+    <string name="sports2">Nekoma High</string>
+    <string name="desc2">Nekoma High (Japanese: 音駒ねこま高校こうこう Nekoma Kōkō), or Metropolitan Nekoma High School (Japanese: 都立とりつ音駒ねこま高等学校こうとうがっこう Toritsu Nekoma Kōtō Gakkō) by its full name, is a high school in Nerima Ward of Tokyo in Japan.</string>
+    <string name="sports3">Aoba Johsai High</string>
+    <string name="desc3">Aoba Johsai High (Japanese: 青葉あおば城西じょうさい高校こうこう Aoba Jōsai Kōkō), also known as Seijoh (Japanese: 青城せいじょう Seijō), and Blue Castle, is a private high school in Miyagi Prefecture.</string>
+    <string name="sports4">Date Tech High</string>
+    <string name="desc4">Date Tech High (Japanese: 伊達だて工業こうぎょう高校こうこう Date Kōgyō Kōkō) is a high school in Miyagi Prefecture.</string>
+    <string name="sports5">Fukurōdani Academy</string>
+    <string name="desc5">Fukurōdani Academy (Japanese: 梟谷ふくろうだに学園がくえん Fukurōdani Gakuen) is a private high school in Tokyo.</string>
+    <string name="sports6">Shiratorizawa Academy</string>
+    <string name="desc6">Shiratorizawa Academy (Japanese: 白鳥沢しらとりざわ学園がくえん Shiratorizawa Gakuen) is a private high school in Sendai, the capital of Miyagi Prefecture. Since the entrance exam is extremely difficult, most students get accepted by studying hard or through sports scholarships.</string>
+    <string name="sports7">Inarizaki High</string>
+    <string name="desc7">Inarizaki High (Japanese: 稲荷崎いなりざき高校こうこう Inarizaki Kōkō) is a high school in Hyōgo Prefecture.</string>
+    <string name="sports8">Johzenji High</string>
+    <string name="desc8">Johzenji High (Japanese: 条善寺じょうぜんじ高校こうこう Jōzenji Kōkō) is a high school located in the Miyagi Prefecture.</string>
+    <string name="sports9">Nohebi Academy</string>
+    <string name="desc9">Nohebi Academy (Japanese: 戸美のへび学園がくえん Nohebi Gakuen) is a private high school in Tokyo.</string>
+    <string name="sports10">Tsubakihara Academy</string>
+    <string name="desc10">Tsubakihara Academy (Japanese: 椿原つばきはら学園がくえん Tsubakihara Gakuen) is a private high school in Kanagawa Prefecture.</string>
+</resources>
