@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/icon_service_question"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:importantForAccessibility="no"
+        app:layout_constraintBottom_toBottomOf="@+id/convert_question"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/convert_question"
+        app:srcCompat="@drawable/ic_baseline_monetization_on_24"
+        app:tint="@color/accent" />
+
+    <TextView
+        android:id="@+id/convert_question"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pilih_mata_uang"
+        android:layout_marginStart="16dp"
+        app:layout_constraintStart_toEndOf="@+id/icon_service_question"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <RadioGroup
+        android:id="@+id/duit_options"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="@+id/convert_question"
+        app:layout_constraintTop_toBottomOf="@+id/convert_question">
+
+        <RadioButton
+            android:id="@+id/option_euro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/euro" />
+
+        <RadioButton
+            android:id="@+id/option_usd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/us_dollar" />
+
+        <RadioButton
+            android:id="@+id/option_yen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/japanese_yen" />
+
+        <RadioButton
+            android:id="@+id/option_riyal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/saudi_riyal" />
+    </RadioGroup>
+
+    <ImageView
+        android:id="@+id/icon_plain_text_input"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:importantForAccessibility="no"
+        app:layout_constraintBottom_toBottomOf="@+id/input_to_convert"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/input_to_convert"
+        app:srcCompat="@drawable/ic_baseline_close_fullscreen_24"
+        app:tint="@color/accent"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/input_to_convert"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:hint="@string/nilai_mata_uang"
+        android:minHeight="48dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/icon_plain_text_input"
+        app:layout_constraintTop_toBottomOf="@+id/duit_options">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/input_to_convert_edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:id="@+id/convert_button"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/konversi"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@id/input_to_convert"
+        app:layout_constraintTop_toBottomOf="@id/input_to_convert" />
+
+    <TextView
+        android:id="@+id/convert_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nilai Rupiah : "
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/convert_button" />
+</androidx.constraintlayout.widget.ConstraintLayout>
