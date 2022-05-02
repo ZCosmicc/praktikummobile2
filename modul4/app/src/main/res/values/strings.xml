@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">スポーツ拡張</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Fariz Fadillah</string>
+    <string name="nav_header_subtitle">2010817210005@ulm.ac.id</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_language">Switch Language</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_teams">Teams</string>
+    <string name="menu_karasuno">Karasuno`s Starter</string>
+
+    <string name="sports1">Karasuno High</string>
+    <string name="desc1">Karasuno High (Japanese: 烏野からすの高校こうこう Karasuno Kōkō) is a high school located in Miyagi Prefecture.</string>
+    <string name="sports2">Nekoma High</string>
+    <string name="desc2">Nekoma High (Japanese: 音駒ねこま高校こうこう Nekoma Kōkō), or Metropolitan Nekoma High School (Japanese: 都立とりつ音駒ねこま高等学校こうとうがっこう Toritsu Nekoma Kōtō Gakkō) by its full name, is a high school in Nerima Ward of Tokyo in Japan.</string>
+    <string name="sports3">Aoba Johsai High</string>
+    <string name="desc3">Aoba Johsai High (Japanese: 青葉あおば城西じょうさい高校こうこう Aoba Jōsai Kōkō), also known as Seijoh (Japanese: 青城せいじょう Seijō), and Blue Castle, is a private high school in Miyagi Prefecture.</string>
+    <string name="sports4">Date Tech High</string>
+    <string name="desc4">Date Tech High (Japanese: 伊達だて工業こうぎょう高校こうこう Date Kōgyō Kōkō) is a high school in Miyagi Prefecture.</string>
+    <string name="sports5">Fukurōdani Academy</string>
+    <string name="desc5">Fukurōdani Academy (Japanese: 梟谷ふくろうだに学園がくえん Fukurōdani Gakuen) is a private high school in Tokyo.</string>
+    <string name="sports6">Shiratorizawa Academy</string>
+    <string name="desc6">Shiratorizawa Academy (Japanese: 白鳥沢しらとりざわ学園がくえん Shiratorizawa Gakuen) is a private high school in Sendai, the capital of Miyagi Prefecture. Since the entrance exam is extremely difficult, most students get accepted by studying hard or through sports scholarships.</string>
+    <string name="sports7">Inarizaki High</string>
+    <string name="desc7">Inarizaki High (Japanese: 稲荷崎いなりざき高校こうこう Inarizaki Kōkō) is a high school in Hyōgo Prefecture.</string>
+    <string name="sports8">Johzenji High</string>
+    <string name="desc8">Johzenji High (Japanese: 条善寺じょうぜんじ高校こうこう Jōzenji Kōkō) is a high school located in the Miyagi Prefecture.</string>
+    <string name="sports9">Nohebi Academy</string>
+    <string name="desc9">Nohebi Academy (Japanese: 戸美のへび学園がくえん Nohebi Gakuen) is a private high school in Tokyo.</string>
+    <string name="sports10">Tsubakihara Academy</string>
+    <string name="desc10">Tsubakihara Academy (Japanese: 椿原つばきはら学園がくえん Tsubakihara Gakuen) is a private high school in Kanagawa Prefecture.</string>
+
+    <string name="karasuno1">Shōyō Hinata</string>
+    <string name="des1">Shōyō Hinata (Japanese: 日向ひなた 翔陽しょうよう Hinata Shōyō) is the main protagonist of the Haikyū!! series by Haruichi Furudate. For the majority of the series, Hinata was a first-year student at Karasuno High and one of the volleyball team`s middle blockers.</string>
+    <string name="karasuno2">Tobio Kageyama</string>
+    <string name="des2">Tobio Kageyama (Japanese: 影山かげやま 飛雄とびお Kageyama Tobio) is the deuteragonist of the Haikyū!! series. For the majority of the series, he is a first-year student at Karasuno High School and plays as the starting setter for the boy`s volleyball club.</string>
+    <string name="karasuno3">Daichi Sawamura</string>
+    <string name="des3">Daichi Sawamura (Japanese: 澤村さわむら 大地だいち Sawamura Daichi) is a third year student attending Karasuno High. He is the captain of the boys volleyball team and one of the starting wing spikers. During the period when the original coach, Ikkei Ukai, was hospitalized, he was one of the captains who had to act as the team`s coach.</string>
+    <string name="karasuno4">Kōshi Sugawara</string>
+    <string name="des4">Kōshi Sugawara (Japanese: 菅原すがわら 孝支こうし Sugawara Kōshi) is a third year student at Karasuno High. He is vice-captain of the boys volleyball team and plays as a substitute setter and pinch server.</string>
+    <string name="karasuno5">Asahi Azumane</string>
+    <string name="des5">Asahi Azumane (Japanese: 東峰あずまね 旭あさひ Azumane Asahi) is a third year student at Karasuno High. He was one of the boy`s volleyball club`s wing spikers and its ace.</string>
+    <string name="karasuno6">Yū Nishinoya</string>
+    <string name="des6">Yū Nishinoya (Japanese: 西谷にしのや 夕ゆう Nishinoya Yū) was a second-year student at Karasuno High School. He served as the libero for the school`s volleyball team and was referred to by his teammates as "Karasuno`s Guardian Deity" for his remarkable skills.</string>
+    <string name="karasuno7">Ryūnosuke Tanaka</string>
+    <string name="des7">Ryūnosuke Tanaka (Japanese: 田中たなか 龍之介りゅうのすけ Tanaka Ryūnosuke) for the majority of the series is a second year student at Karasuno High. He is part of the boys volleyball club and plays as a starting wing spiker. Tanaka was known as the teams up-and-coming ace.</string>
+    <string name="karasuno8">Kei Tsukishima</string>
+    <string name="des8">Kei Tsukishima (Japanese: 月島つきしま 蛍けい Tsukishima Kei) is a first year at Karasuno High. He plays as one of the starting middle blockers on the boys volleyball team.</string>
+</resources>
